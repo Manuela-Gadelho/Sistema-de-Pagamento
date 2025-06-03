@@ -1,6 +1,6 @@
 Lanchonete Fatec: Sistema de Caixa Automatizado
 
-(Substitua esta imagem por uma captura de tela real da sua aplicação Java)
+![image](https://github.com/user-attachments/assets/d990668a-9603-4e21-8897-3d5711d727e4)
 
 Este projeto é um sistema de caixa interativo desenvolvido para uma lanchonete fictícia da Fatec, combinando hardware (Arduino) e software (Java). Ele permite que os clientes selecionem produtos, gerenciem um carrinho de compras e realizem pagamentos de forma segura via senha, proporcionando uma experiência automatizada e eficiente.
 
